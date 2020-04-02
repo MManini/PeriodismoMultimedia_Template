@@ -17,7 +17,7 @@ Univesidad de Granada
 
 **logotipo** :  ________
 
-**Slogan** (frase motivadora/inspiradora): ________
+**Slogan** (frase motivadora/inspiradora): Informar para dar luz
 
 **Hashtag**  #EmbarazoVulnerable
 
