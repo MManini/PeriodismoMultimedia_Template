@@ -1,4 +1,4 @@
-## (Nombre del proyecto)  
+## Embarazos Vulnerables 
 
 (Plantilla para la creación de un proyecto Multimedia Interactivo)
 
@@ -9,23 +9,23 @@ Univesidad de Granada
 
 ----
 
-**Titulo** : _______
+**Titulo** : Embarazos Vulnerables
 
-**Autor(es)** ______________
+**Autor(es)** Mauricio Manini
 
-**Resumen** : _________
+**Resumen** : Una plataforma online donde se reúna información dirigida a personas en situación de vulnerabilidad que cursan un embarazo.
 
 **logotipo** :  ________
 
 **Slogan** (frase motivadora/inspiradora): ________
 
-**Hashtag**  ___
+**Hashtag**  #EmbarazoVulnerable
 
 **Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
 
 **Fecha** : 2020
 
-**Medios** (donde se tiene presencia): 
+**Medios** (donde se tiene presencia): WEB 
 
 
 *  :octocat: (github url) 
@@ -44,18 +44,18 @@ Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia 
 
 Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomultimedia
 
-**Investigación de campo**   Desk research propuestas inspiradoras para el proyecto) 
+**Investigación de campo**   Desk research propuestas inspiradoras para el proyecto 
 
-* @LadyDistopia (link) ...¿ por qué ?
+* Defensores de Mamás https://www.defensoresdemamas.org/ Web de un proyecto argentino donde se trabaja con mujeres y niños en dificultades económicas
 * (...)
 * 
 
 
-**Necesidad/oportunidad** 
+**Necesidad/oportunidad** Brindar atención y ayuda en un momento complejo como lo es cualquier embarazo
 
-**Motivación de la propuesta** .... ¿ por qué consideras interesante ? 
+**Motivación de la propuesta** .... El aislamiento de mujeres embarazadas con una salud delicada por el Coronavirus y la detención de una mujer embarazada por romper el aislamiento para ir a trabajar, sirven para recordar las dificultades a las que se encuentran muchas personas que cursan un embarazo y no cuentan con recursos suficientes. 
 
-**Personas/Usuarios**  (...¿en quién piensas que puede ser útil ? ¿cual es tu publico objetivo?) 
+**Personas/Usuarios**  Personas que cursen un embarazo y estén en situaciones de riesgo 
 
 **Estilo de narración**  (...indica como se hace uso de los medios)  
 
