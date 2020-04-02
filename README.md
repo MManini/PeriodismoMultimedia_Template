@@ -25,12 +25,7 @@ Univesidad de Granada
 
 **Fecha** : 2020
 
-**Medios** (donde se tiene presencia): WEB 
-
-
-*  :octocat: (github url) 
-* Twitter 
-* ... 
+**Medios** (donde se tiene presencia): WEB y App
 
 
 
@@ -47,8 +42,8 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 **Investigación de campo**   Desk research propuestas inspiradoras para el proyecto 
 
 * Defensores de Mamás https://www.defensoresdemamas.org/ Web de un proyecto argentino donde se trabaja con mujeres y niños en dificultades económicas
-* (...)
-* 
+* Spei Mater http://speimater.com/es Web de tipo religiosa con información de proyectos vinculados al tema
+ 
 
 
 **Necesidad/oportunidad** Brindar atención y ayuda en un momento complejo como lo es cualquier embarazo
@@ -57,12 +52,8 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 **Personas/Usuarios**  Personas que cursen un embarazo y estén en situaciones de riesgo 
 
-**Estilo de narración**  (...indica como se hace uso de los medios)  
-
-(ejemplos/alternativas) 
-* documental interactivo 
-* videojuego 
-* ... 
+**Estilo de narración**  
+La web reuniría por un lado recomendaciones en temáticas como alimentación, psicología, salud física y trabajo (se evitarían cuestiones morales o religiosas). Esto incluiría también información sobre el desarrollo tanto de la madre como de su hijo/a en las distintas etapas. Por el otro lado, se sumarían historias compartidas por propias mujeres sobre cómo superaron dificultades o cómo acceder a derechos como la prestación económica por riesgo durante el embarazo. 
 
 
 
